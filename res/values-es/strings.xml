@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <main>
 	<translators>Launchpad Contributions:
-  Mads Peter Rommedahl https://launchpad.net/~lhademmor</translators>
+  Walter Reindeer Martinez H https://launchpad.net/~waltereindeerm</translators>
 	<description application="aboutapp/AboutApp">
 		<!--  OI About -->
 		<!--  -->
@@ -10,13 +10,13 @@
 		<!--  (Put each sentence in a separate line. Each sentence is translated separately) -->
 		<!--  -->
 		<!--  Description of application -->
-		<string>OI About is a standalone about dialog that is shared between apps.</string>
+		<string>Acerca de OI; es un programa autónomo de diálogo que se comparte entre aplicaciones.</string>
 		<string>This application is invoked through the menu of other OI applications.</string>
 		<string>It allows you to view version information, links, credits, and license of an application.</string>
 		<string>Credits include authors, documentation, translators, and artists.</string>
 		<string>All of this functionality is brought together in a simplistic and efficient layout.</string>
 		<emptyline/>
-		<string>Dette program er reklamefrit og kræver ikke internetadgang.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
 		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
@@ -29,11 +29,11 @@
 		<emptyline/>
 		<string>Features:</string>
 		<listitem>Shows general info, credits, and license tabs.</listitem>
-		<listitem>Shows translators of all language versions.</listitem>
-		<listitem>Retrieves information from application manifest through default tags and metadata.</listitem>
+		<listitem>Muestra los traductores de todas las versiones lingüísticas.</listitem>
+		<listitem>Recupera información de manifiesto de la aplicación por defecto a través de etiquetas y metadatos.</listitem>
 		<listitem>Optionally, all fields can be modified through intent extras.</listitem>
 		<emptyline/>
-		<string>Applications that work with "OI About":</string>
+		<string>Aplicaciones que funcionan con "Acerca de OI":</string>
 		<listitem>OI Notepad</listitem>
 		<listitem>OI File manager</listitem>
 		<listitem>OI Shopping List</listitem>
@@ -63,10 +63,10 @@
 		<!--  (Put each sentence in a separate line. Each sentence is translated separately) -->
 		<!--  -->
 		<!--  Description of application -->
-		<string>OI Filhåndtering lader dig gennemse dit SD-kort, oprette mapper, omdøbe, kopiere, flytte og slette filer.</string>
-		<string>Den fungerer også som en udvidelse til andre programmer til at vise "Åbn"- og "Gem"-dialoger.</string>
+		<string>OI File Manager allows you to browse your SD card, create directories, rename, copy, move, and delete files.</string>
+		<string>It also acts as an extension to other applications to display "Open" and "Save" dialogs.</string>
 		<emptyline/>
-		<string>Dette program er reklamefrit og kræver ikke internetadgang.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
 		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
 		<link href="http://www.openintents.org"/>
@@ -79,7 +79,7 @@
 		<emptyline/>
 		<string>Features:</string>
 		<listitem>Show list of files with thumbnails for images.</listitem>
-		<listitem>Move, copy, rename, and delete files.</listitem>
+		<listitem>Mover, copiar, renombrar y borrar archivos.</listitem>
 		<listitem>Create and delete directories (folders).</listitem>
 		<listitem>Send files by email.</listitem>
 		<listitem>Acts as an extension to other applications, like GMail, to attach files.</listitem>
@@ -119,7 +119,7 @@
 		<string>For devices with a camera flash, OI Flashlight can also use the flash as a bright torch to brighten the room.</string>
 		<string>The color of the backlight is completely customizable with OI Color Picker.</string>
 		<emptyline/>
-		<string>Dette program er reklamefrit og kræver ikke internetadgang.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
 		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
@@ -166,7 +166,7 @@
 		<string>Advanced features like encryption, import/export, and voice memos are all available through extensions.</string>
 		<string>All of this functionality is brought together in a simplistic and efficient layout, customizable through a variety of themes.</string>
 		<emptyline/>
-		<string>Dette program er reklamefrit og kræver ikke internetadgang.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
 		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
@@ -221,7 +221,7 @@
 		<string>OI Safe safely protects all of your passwords and other private data using industry standard AES encryption.</string>
 		<string>It also acts as an extension to OI Notepad to encrypt notes created in OI Notepad.</string>
 		<emptyline/>
-		<string>Dette program er reklamefrit og kræver ikke internetadgang.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
 		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
 		<link href="http://www.openintents.org"/>
@@ -279,7 +279,7 @@
 		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>Dette program er reklamefrit og kræver ikke internetadgang.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
 		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
 		<link href="http://www.openintents.org"/>
@@ -288,7 +288,7 @@
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
 		<string>Features:</string>
-		<listitem>Add, edit and delete lists.</listitem>
+		<listitem>Añadir, editar y eliminar listas.</listitem>
 		<listitem>Create, delete, and check items quickly and easily.</listitem>
 		<listitem>Variety of themes.</listitem>
 		<listitem>Customizable font size and sort order.</listitem>

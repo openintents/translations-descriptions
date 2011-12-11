@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <main>
 	<translators>Launchpad Contributions:
-  Mads Peter Rommedahl https://launchpad.net/~lhademmor</translators>
+  Cédric VALMARY (Tot en òc) https://launchpad.net/~cvalmary</translators>
 	<description application="aboutapp/AboutApp">
 		<!--  OI About -->
 		<!--  -->
@@ -16,7 +16,7 @@
 		<string>Credits include authors, documentation, translators, and artists.</string>
 		<string>All of this functionality is brought together in a simplistic and efficient layout.</string>
 		<emptyline/>
-		<string>Dette program er reklamefrit og kræver ikke internetadgang.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
 		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
@@ -42,7 +42,7 @@
 		<listitem>OI Countdown</listitem>
 		<listitem>OI Flashlight</listitem>
 		<emptyline/>
-		<string>Keywords:</string>
+		<string>Mots claus :</string>
 		<listitem>About, Credits, Information.</listitem>
 		<listitem>OI, OpenIntents, Open Intents.</listitem>
 		<emptyline/>
@@ -63,10 +63,10 @@
 		<!--  (Put each sentence in a separate line. Each sentence is translated separately) -->
 		<!--  -->
 		<!--  Description of application -->
-		<string>OI Filhåndtering lader dig gennemse dit SD-kort, oprette mapper, omdøbe, kopiere, flytte og slette filer.</string>
-		<string>Den fungerer også som en udvidelse til andre programmer til at vise "Åbn"- og "Gem"-dialoger.</string>
+		<string>OI File Manager allows you to browse your SD card, create directories, rename, copy, move, and delete files.</string>
+		<string>It also acts as an extension to other applications to display "Open" and "Save" dialogs.</string>
 		<emptyline/>
-		<string>Dette program er reklamefrit og kræver ikke internetadgang.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
 		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
 		<link href="http://www.openintents.org"/>
@@ -92,7 +92,7 @@
 		<string>Applications that work with "OI File Manager":</string>
 		<listitem>Open and save text files in "OI Notepad".</listitem>
 		<emptyline/>
-		<string>Keywords:</string>
+		<string>Mots claus :</string>
 		<!--  Keywords: List several related key words and variations in your language and in English that people might search for. -->
 		<listitem>file manager, filemanager, file explorer</listitem>
 		<!--  Keep these keywords untranslated, or list the English version and a translation of the company name into your language in variations that people might search for. -->
@@ -119,7 +119,7 @@
 		<string>For devices with a camera flash, OI Flashlight can also use the flash as a bright torch to brighten the room.</string>
 		<string>The color of the backlight is completely customizable with OI Color Picker.</string>
 		<emptyline/>
-		<string>Dette program er reklamefrit og kræver ikke internetadgang.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
 		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
@@ -142,7 +142,7 @@
 		<string>Applications that work with "OI Flashlight":</string>
 		<listitem>Update with "OI Update".</listitem>
 		<emptyline/>
-		<string>Keywords:</string>
+		<string>Mots claus :</string>
 		<listitem>Flashlight, light, Backlight</listitem>
 		<listitem>OI, OpenIntents, Open Intents</listitem>
 		<emptyline/>
@@ -166,7 +166,7 @@
 		<string>Advanced features like encryption, import/export, and voice memos are all available through extensions.</string>
 		<string>All of this functionality is brought together in a simplistic and efficient layout, customizable through a variety of themes.</string>
 		<emptyline/>
-		<string>Dette program er reklamefrit og kræver ikke internetadgang.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
 		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
@@ -199,7 +199,7 @@
 		<listitem>Update with "OI Update".</listitem>
 		<listitem>Share notes through "Facebook", "Gmail", "Google+", "Twitter", and many other applications.</listitem>
 		<emptyline/>
-		<string>Keywords:</string>
+		<string>Mots claus :</string>
 		<listitem>Note, Notepad, Note book, Notes</listitem>
 		<listitem>OI, OpenIntents, Open Intents</listitem>
 		<emptyline/>
@@ -221,7 +221,7 @@
 		<string>OI Safe safely protects all of your passwords and other private data using industry standard AES encryption.</string>
 		<string>It also acts as an extension to OI Notepad to encrypt notes created in OI Notepad.</string>
 		<emptyline/>
-		<string>Dette program er reklamefrit og kræver ikke internetadgang.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
 		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
 		<link href="http://www.openintents.org"/>
@@ -249,7 +249,7 @@
 		<string>Applications that work with "OI File Manager":</string>
 		<listitem>Encrypt notes created in "OI Notepad".</listitem>
 		<emptyline/>
-		<string>Keywords:</string>
+		<string>Mots claus :</string>
 		<!--  Keywords: List several related key words and variations in your language and in English that people might search for. -->
 		<listitem>safe, encrpytion, password, protection</listitem>
 		<!--  Keep these keywords untranslated, or list the English version and a translation of the company name into your language in variations that people might search for. -->
@@ -279,7 +279,7 @@
 		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>Dette program er reklamefrit og kræver ikke internetadgang.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
 		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
 		<link href="http://www.openintents.org"/>
@@ -306,14 +306,14 @@
 		<listitem>Backup lists with "My Backup Pro".</listitem>
 		<listitem>Import ingredients of recipes with "Bites".</listitem>
 		<emptyline/>
-		<string>Keywords:</string>
+		<string>Mots claus :</string>
 		<listitem>Shopping, List, Shopping List, Checklist</listitem>
 		<listitem>OI, OpenIntents, Open Intents</listitem>
 		<emptyline/>
 		<string>International versions:</string>
 		<international/>
 		<emptyline/>
-		<string>Extensions:</string>
+		<string>Extensions :</string>
 		<!--  (these are not translated into other languages) -->
 		<include file="description_extensions.txt"/>
 		<emptyline/>
