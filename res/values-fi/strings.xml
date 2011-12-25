@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <main>
 	<translators>Launchpad Contributions:
-  Alexander Sapronov https://launchpad.net/~warmonger
-  Alexander Vasilyev https://launchpad.net/~vlalevas
-  Evgrafov Vladimir https://launchpad.net/~evgrafov-vladimir
-  OpenIntents devs https://launchpad.net/~openintents-devs</translators>
+  Madhu Sudan Saraogi https://launchpad.net/~madhusudansrg4</translators>
 	<description application="aboutapp/AboutApp">
 		<!--  OI About -->
 		<!--  -->
@@ -13,27 +10,27 @@
 		<!--  (Put each sentence in a separate line. Each sentence is translated separately) -->
 		<!--  -->
 		<!--  Description of application -->
-		<string>OI About это отдельный информационный диалог используемый в различных приложениях.</string>
+		<string>OI About is a standalone about dialog that is shared between apps.</string>
 		<string>This application is invoked through the menu of other OI applications.</string>
-		<string>Это позволяет вам просматривать информацию о версии, разработчиках и лицензии приложения</string>
+		<string>It allows you to view version information, links, credits, and license of an application.</string>
 		<string>Credits include authors, documentation, translators, and artists.</string>
 		<string>All of this functionality is brought together in a simplistic and efficient layout.</string>
 		<emptyline/>
-		<string>Это приложение является бесплатным и не требует постоянного подключения к Интернет.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
-		<string>Исходный код этой программы является свободным и открытым. Доступен по адресу:</string>
+		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>С полным списком изменений и списком часто задаваемых вопросов можно ознакомиться на:</string>
+		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
-		<string>Вы можете помочь улучшить перевод прилоежния на ваш язык, посетите Launchpad:</string>
+		<string>You can help to improve the translation into your language at Launchpad:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Возможности:</string>
+		<string>Features:</string>
 		<listitem>Shows general info, credits, and license tabs.</listitem>
 		<listitem>Shows translators of all language versions.</listitem>
-		<listitem>Получает информацию из манифеста приложения через стандартные теги и метаданные</listitem>
+		<listitem>Retrieves information from application manifest through default tags and metadata.</listitem>
 		<listitem>Optionally, all fields can be modified through intent extras.</listitem>
 		<emptyline/>
 		<string>Applications that work with "OI About":</string>
@@ -45,11 +42,11 @@
 		<listitem>OI Countdown</listitem>
 		<listitem>OI Flashlight</listitem>
 		<emptyline/>
-		<string>Ключевые слова:</string>
+		<string>Keywords:</string>
 		<listitem>About, Credits, Information.</listitem>
 		<listitem>OI, OpenIntents, Open Intents.</listitem>
 		<emptyline/>
-		<string>Переведенные версии:</string>
+		<string>International versions:</string>
 		<international/>
 		<emptyline/>
 		<string>Search strings for Market:</string>
@@ -69,39 +66,39 @@
 		<string>OI File Manager allows you to browse your SD card, create directories, rename, copy, move, and delete files.</string>
 		<string>It also acts as an extension to other applications to display "Open" and "Save" dialogs.</string>
 		<emptyline/>
-		<string>Это приложение является бесплатным и не требует постоянного подключения к Интернет.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
-		<string>С полным списком изменений и списком часто задаваемых вопросов можно ознакомиться на:</string>
+		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
-		<string>Вы можете помочь улучшить перевод прилоежния на ваш язык, посетите Launchpad:</string>
+		<string>You can help to improve the translation into your language at Launchpad:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Исходный код этой программы является свободным и открытым. Доступен по адресу:</string>
+		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>Возможности:</string>
-		<listitem>Показать список файлов с эскизами изображений.</listitem>
-		<listitem>Переместить, копировать, переименовывать и удалять файлы.</listitem>
-		<listitem>￼  Создание и удаление директорий (папок).</listitem>
-		<listitem>Отправить файлы по электронной почте.</listitem>
+		<string>Features:</string>
+		<listitem>Show list of files with thumbnails for images.</listitem>
+		<listitem>Move, copy, rename, and delete files.</listitem>
+		<listitem>Create and delete directories (folders).</listitem>
+		<listitem>Send files by email.</listitem>
 		<listitem>Acts as an extension to other applications, like GMail, to attach files.</listitem>
 		<listitem>Support for many file endings and mime types.</listitem>
-		<listitem>Поддерживает PICK_FILE и PICK_DIRECTORY, так что другие приложения могут использовать OI File Manager</listitem>
+		<listitem>Supports PICK_FILE and PICK_DIRECTORY intents so that other applications can use OI File Manager.</listitem>
 		<emptyline/>
 		<string>Available extensions for "OI File Manager":</string>
 		<listitem>Show the license information with "OI About".</listitem>
 		<emptyline/>
-		<string>Приложения работающие с "OI File Manager":</string>
+		<string>Applications that work with "OI File Manager":</string>
 		<listitem>Open and save text files in "OI Notepad".</listitem>
 		<emptyline/>
-		<string>Ключевые слова:</string>
+		<string>Keywords:</string>
 		<!--  Keywords: List several related key words and variations in your language and in English that people might search for. -->
-		<listitem>файловый менеджер, файловый менеджер, файловый менеджер</listitem>
+		<listitem>file manager, filemanager, file explorer</listitem>
 		<!--  Keep these keywords untranslated, or list the English version and a translation of the company name into your language in variations that people might search for. -->
-		<listitem>Copy text 	 OI, IO, OpenIntents, Open Intents</listitem>
+		<listitem>OI, IO, OpenIntents, Open Intents</listitem>
 		<emptyline/>
-		<string>Переведенные версии:</string>
+		<string>International versions:</string>
 		<international/>
 		<emptyline/>
 		<string>Search strings for Market:</string>
@@ -122,18 +119,18 @@
 		<string>For devices with a camera flash, OI Flashlight can also use the flash as a bright torch to brighten the room.</string>
 		<string>The color of the backlight is completely customizable with OI Color Picker.</string>
 		<emptyline/>
-		<string>Это приложение является бесплатным и не требует постоянного подключения к Интернет.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
-		<string>Исходный код этой программы является свободным и открытым. Доступен по адресу:</string>
+		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>С полным списком изменений и списком часто задаваемых вопросов можно ознакомиться на:</string>
+		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
-		<string>Вы можете помочь улучшить перевод прилоежния на ваш язык, посетите Launchpad:</string>
+		<string>You can help to improve the translation into your language at Launchpad:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Возможности:</string>
+		<string>Features:</string>
 		<listitem>Lock the display backlight on.</listitem>
 		<listitem>Lock camera flash on.</listitem>
 		<listitem>The color of backlight is customizable.</listitem>
@@ -143,13 +140,13 @@
 		<listitem>Change the color of the backlight with "OI Color Picker".</listitem>
 		<emptyline/>
 		<string>Applications that work with "OI Flashlight":</string>
-		<listitem>Обновить с помощью "OI Update".</listitem>
+		<listitem>Update with "OI Update".</listitem>
 		<emptyline/>
-		<string>Ключевые слова:</string>
+		<string>Keywords:</string>
 		<listitem>Flashlight, light, Backlight</listitem>
 		<listitem>OI, OpenIntents, Open Intents</listitem>
 		<emptyline/>
-		<string>Переведенные версии:</string>
+		<string>International versions:</string>
 		<international/>
 		<emptyline/>
 		<string>Search strings for Market:</string>
@@ -169,44 +166,44 @@
 		<string>Advanced features like encryption, import/export, and voice memos are all available through extensions.</string>
 		<string>All of this functionality is brought together in a simplistic and efficient layout, customizable through a variety of themes.</string>
 		<emptyline/>
-		<string>Это приложение является бесплатным и не требует постоянного подключения к Интернет.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
-		<string>Исходный код этой программы является свободным и открытым. Доступен по адресу:</string>
+		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>С полным списком изменений и списком часто задаваемых вопросов можно ознакомиться на:</string>
+		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
-		<string>Вы можете помочь улучшить перевод прилоежния на ваш язык, посетите Launchpad:</string>
+		<string>You can help to improve the translation into your language at Launchpad:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Возможности:</string>
+		<string>Features:</string>
 		<listitem>Add, edit and delete notes.</listitem>
-		<listitem>Долгое нажатия на записи чтобы добавить метку.</listitem>
+		<listitem>Long-press on notes to add tags.</listitem>
 		<listitem>Change font size and sort order.</listitem>
 		<listitem>A clearly arranged layout with a variety of themes.</listitem>
 		<listitem>Quickly search through notes.</listitem>
 		<listitem>Send notes as MMS or SMS.</listitem>
 		<emptyline/>
 		<string>Available extensions for "OI Notepad":</string>
-		<listitem>Запись и прикрепление голосовых сообщений к заметке с помощью "OI Voice Notes".</listitem>
+		<listitem>Record and attach voice memos to notes with "OI Voice Notes".</listitem>
 		<listitem>With "OI Convert CSV" import/export notes from the SD card.</listitem>
 		<listitem>Show the license information with "OI About".</listitem>
-		<listitem>Добавить дату и время в заметки с помощью "OI Insert Date".</listitem>
+		<listitem>Insert the date and time into notes with "OI Insert Date".</listitem>
 		<listitem>Turn text upside down with "Upside Down".</listitem>
 		<emptyline/>
 		<string>Applications that work with "OI Notepad":</string>
 		<listitem>Back up notes with "My Backup Pro".</listitem>
 		<listitem>Encrypt notes using "OI Safe".</listitem>
 		<listitem>Manage notes on your SD Card with "OI File Manager".</listitem>
-		<listitem>Обновить с помощью "OI Update".</listitem>
+		<listitem>Update with "OI Update".</listitem>
 		<listitem>Share notes through "Facebook", "Gmail", "Google+", "Twitter", and many other applications.</listitem>
 		<emptyline/>
-		<string>Ключевые слова:</string>
+		<string>Keywords:</string>
 		<listitem>Note, Notepad, Note book, Notes</listitem>
 		<listitem>OI, OpenIntents, Open Intents</listitem>
 		<emptyline/>
-		<string>Переведенные версии:</string>
+		<string>International versions:</string>
 		<international/>
 		<emptyline/>
 		<string>Search strings for Market:</string>
@@ -224,21 +221,21 @@
 		<string>OI Safe safely protects all of your passwords and other private data using industry standard AES encryption.</string>
 		<string>It also acts as an extension to OI Notepad to encrypt notes created in OI Notepad.</string>
 		<emptyline/>
-		<string>Это приложение является бесплатным и не требует постоянного подключения к Интернет.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
-		<string>С полным списком изменений и списком часто задаваемых вопросов можно ознакомиться на:</string>
+		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
-		<string>Вы можете помочь улучшить перевод прилоежния на ваш язык, посетите Launchpad:</string>
+		<string>You can help to improve the translation into your language at Launchpad:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Исходный код этой программы является свободным и открытым. Доступен по адресу:</string>
+		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>Возможности:</string>
+		<string>Features:</string>
 		<listitem>Securely protect data using AES encryption.</listitem>
 		<listitem>Freely move data entries between categories.</listitem>
-		<listitem>Импорт / экспорт данных записей и баз данных</listitem>
+		<listitem>Import/Export data entries and databases.</listitem>
 		<listitem>Backup/Restore entries.</listitem>
 		<listitem>Includes secure password generator.</listitem>
 		<listitem>Automatic timeout to protect encrypted documents.</listitem>
@@ -249,16 +246,16 @@
 		<string>Available extensions for "OI File Manager":</string>
 		<listitem>Show the license information with "OI About".</listitem>
 		<emptyline/>
-		<string>Приложения работающие с "OI File Manager":</string>
+		<string>Applications that work with "OI File Manager":</string>
 		<listitem>Encrypt notes created in "OI Notepad".</listitem>
 		<emptyline/>
-		<string>Ключевые слова:</string>
+		<string>Keywords:</string>
 		<!--  Keywords: List several related key words and variations in your language and in English that people might search for. -->
 		<listitem>safe, encrpytion, password, protection</listitem>
 		<!--  Keep these keywords untranslated, or list the English version and a translation of the company name into your language in variations that people might search for. -->
-		<listitem>Copy text 	 OI, IO, OpenIntents, Open Intents</listitem>
+		<listitem>OI, IO, OpenIntents, Open Intents</listitem>
 		<emptyline/>
-		<string>Переведенные версии:</string>
+		<string>International versions:</string>
 		<international/>
 		<emptyline/>
 		<string>Search strings for Market:</string>
@@ -279,18 +276,18 @@
 		<string>Font size, sort order, list columns, and list cleanup behavior are all settings controlled by the user.</string>
 		<string>All of these features are brought together in a crisp layout that is customizable through a variety of themes.</string>
 		<emptyline/>
-		<string>Исходный код этой программы является свободным и открытым. Доступен по адресу:</string>
+		<string>The source code of this free and open source application is available at:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>Это приложение является бесплатным и не требует постоянного подключения к Интернет.</string>
+		<string>This application is ad free and does not require the internet permission.</string>
 		<emptyline/>
-		<string>С полным списком изменений и списком часто задаваемых вопросов можно ознакомиться на:</string>
+		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
-		<string>Вы можете помочь улучшить перевод прилоежния на ваш язык, посетите Launchpad:</string>
+		<string>You can help to improve the translation into your language at Launchpad:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Возможности:</string>
+		<string>Features:</string>
 		<listitem>Add, edit and delete lists.</listitem>
 		<listitem>Create, delete, and check items quickly and easily.</listitem>
 		<listitem>Variety of themes.</listitem>
@@ -305,15 +302,15 @@
 		<listitem>Enter/check items with "Barcode OI Plugin".</listitem>
 		<emptyline/>
 		<string>Applications that work with "OI Shopping List":</string>
-		<listitem>Обновить с помощью "OI Update".</listitem>
+		<listitem>Update with "OI Update".</listitem>
 		<listitem>Backup lists with "My Backup Pro".</listitem>
 		<listitem>Import ingredients of recipes with "Bites".</listitem>
 		<emptyline/>
-		<string>Ключевые слова:</string>
+		<string>Keywords:</string>
 		<listitem>Shopping, List, Shopping List, Checklist</listitem>
 		<listitem>OI, OpenIntents, Open Intents</listitem>
 		<emptyline/>
-		<string>Переведенные версии:</string>
+		<string>International versions:</string>
 		<international/>
 		<emptyline/>
 		<string>Extensions:</string>
