@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <main>
-	<translators>translator-credits</translators>
+	<translators>Launchpad Contributions:
+  Tomass https://launchpad.net/~txt1</translators>
 	<description application="aboutapp/AboutApp">
 		<!--  OI About -->
 		<!--  -->
@@ -9,29 +10,29 @@
 		<!--  (Put each sentence in a separate line. Each sentence is translated separately) -->
 		<!--  -->
 		<!--  Description of application -->
-		<string>OI About is a standalone about dialog that is shared between apps.</string>
-		<string>This application is invoked through the menu of other OI applications.</string>
-		<string>It allows you to view version information, links, credits, and license of an application.</string>
-		<string>Credits include authors, documentation, translators, and artists.</string>
-		<string>All of this functionality is brought together in a simplistic and efficient layout.</string>
-		<emptyline />
-		<string>This application is ad free and does not require the internet permission.</string>
-		<emptyline />
-		<string>The source code of this free and open source application is available at:</string>
-		<link href="http://code.google.com/p/openintents" />
-		<emptyline />
-		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
-		<link href="http://www.openintents.org" />
-		<emptyline />
-		<string>You can help to improve the translation into your language at Launchpad:</string>
-		<link href="https://translations.launchpad.net/openintents/trunk" />
-		<emptyline />
+		<string>Ol About ir patstāvīgs paskaidrojošs dialogs, kurš ir sadalīts starp aplikācijām.</string>
+		<string>Šī aplikācija atsaucas uz citu OI aplikāciju izvēlnēm.</string>
+		<string>Tā ļauj skatīt versijas informāciju, saites, titrus un aplikācijas licenzi.</string>
+		<string>Titri iekļauj autorus, dokumentāciju, tulkotājus un māklsiniekus.</string>
+		<string>Visa ši funkcionalitāte ir savesta kopā vienkāršā un efektīvā izkārtojumā.</string>
+		<emptyline/>
+		<string>Šī aplikācija ir bezmaksas un tai nevajag interneta atļauju.</string>
+		<emptyline/>
+		<string>Pirmkods ir bezmaksas un atvērtā pirmkoda aplikācija ir pieejama:</string>
+		<link href="http://code.google.com/p/openintents"/>
+		<emptyline/>
+		<string>Lai skatītu pilnīgu izmaiņu sarakstu un sarakstu ar biežāk uzdotajiem jautājumiem, lūdzu apmeklējiet:</string>
+		<link href="http://www.openintents.org"/>
+		<emptyline/>
+		<string>Jūs varat palīdzēt uzlabot tulkojumu savā valodā izmantojot Lounchpad:</string>
+		<link href="https://translations.launchpad.net/openintents/trunk"/>
+		<emptyline/>
 		<string>Features:</string>
 		<listitem>Shows general info, credits, and license tabs.</listitem>
 		<listitem>Shows translators of all language versions.</listitem>
 		<listitem>Retrieves information from application manifest through default tags and metadata.</listitem>
 		<listitem>Optionally, all fields can be modified through intent extras.</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Applications that work with "OI About":</string>
 		<listitem>OI Notepad</listitem>
 		<listitem>OI File manager</listitem>
@@ -40,19 +41,19 @@
 		<listitem>OI Safe</listitem>
 		<listitem>OI Countdown</listitem>
 		<listitem>OI Flashlight</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Keywords:</string>
 		<listitem>About, Credits, Information.</listitem>
 		<listitem>OI, OpenIntents, Open Intents.</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>International versions:</string>
-		<international />
-		<emptyline />
+		<international/>
+		<emptyline/>
 		<string>Search strings for Market:</string>
 		<!--  (these are not translated into other languages) -->
-		<include file="description_extensions.txt" />
-		<emptyline />
-		<emptyline />
+		<include file="description_extensions.txt"/>
+		<emptyline/>
+		<emptyline/>
 	</description>
 	<description application="countdown/Countdown">
 		<!--  OI Countdown -->
@@ -62,48 +63,48 @@
 		<!--  (Put each sentence in a separate line. Each sentence is translated separately) -->
 		<!--  -->
 		<!--  Description of application -->
-		<emptyline />
+		<emptyline/>
 		<string>OI Countdown is a helpful timer to increase your productivity and plan your day. </string>
 		<string>It allows you to set a variety of different actions to notify you at the end of a timer. </string>
 		<string>Fully customize all your timers, with no limit on how many you can have running or saved. </string>
-		<emptyline />
-		<string>This application is ad free and does not require the internet permission. </string>
-		<emptyline />
-		<emptyline />
-		<emptyline />
-		<string>The source code of this free and open source application is available at:</string>
-		<link href="http://code.google.com/p/openintents" />
-		<emptyline />
-		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
-		<link href="http://www.openintents.org" />
-		<emptyline />
-		<emptyline />
-		<string>You can help to improve the translation into your language at Launchpad:</string>
-		<link href="https://translations.launchpad.net/openintents/trunk" />
-		<emptyline />
+		<emptyline/>
+		<string>Šī aplikācija ir bezmaksas un tai nevajag interneta atļauju.</string>
+		<emptyline/>
+		<emptyline/>
+		<emptyline/>
+		<string>Pirmkods ir bezmaksas un atvērtā pirmkoda aplikācija ir pieejama:</string>
+		<link href="http://code.google.com/p/openintents"/>
+		<emptyline/>
+		<string>Lai skatītu pilnīgu izmaiņu sarakstu un sarakstu ar biežāk uzdotajiem jautājumiem, lūdzu apmeklējiet:</string>
+		<link href="http://www.openintents.org"/>
+		<emptyline/>
+		<emptyline/>
+		<string>Jūs varat palīdzēt uzlabot tulkojumu savā valodā izmantojot Lounchpad:</string>
+		<link href="https://translations.launchpad.net/openintents/trunk"/>
+		<emptyline/>
 		<string>Features: </string>
 		<listitem>Set a countdown by choosing a duration or a date.</listitem>
 		<listitem>Be notified by vibration or any sound of your choice. </listitem>
 		<listitem>Have an unlimited number of timers running at the same time. </listitem>
 		<listitem>Save your countdowns and give them names to reuse at later times. </listitem>
 		<listitem>Modify countdowns, even while they are still running</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Available extensions for "OI Countdown": </string>
 		<listitem>Launch applications through Android shortcuts</listitem>
 		<listitem>Use OI About to show license information</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Keywords: </string>
 		<!--  Keywords: List several related key words and variations in your language and in English that people might search for. -->
 		<listitem>countdown, timer, alert</listitem>
 		<!--  Keep these keywords untranslated, or list the English version and a translation of the company name into your language in variations that people might search for. -->
 		<listitem>OI, OpenIntents, Open Intents</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>International versions:</string>
-		<international />
-		<emptyline />
+		<international/>
+		<emptyline/>
 		<string>Search strings for Market:</string>
 		<!--  (these are not translated into other languages) -->
-		<include file="description_extensions.txt " />
+		<include file="description_extensions.txt "/>
 	</description>
 	<description application="filemanager/FileManager">
 		<!--  OI File Manager -->
@@ -115,18 +116,18 @@
 		<!--  Description of application -->
 		<string>OI File Manager allows you to browse your SD card, create directories, rename, copy, move, and delete files.</string>
 		<string>It also acts as an extension to other applications to display "Open" and "Save" dialogs.</string>
-		<emptyline />
-		<string>This application is ad free and does not require the internet permission.</string>
-		<emptyline />
-		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
-		<link href="http://www.openintents.org" />
-		<emptyline />
-		<string>You can help to improve the translation into your language at Launchpad:</string>
-		<link href="https://translations.launchpad.net/openintents/trunk" />
-		<emptyline />
-		<string>The source code of this free and open source application is available at:</string>
-		<link href="http://code.google.com/p/openintents" />
-		<emptyline />
+		<emptyline/>
+		<string>Šī aplikācija ir bezmaksas un tai nevajag interneta atļauju.</string>
+		<emptyline/>
+		<string>Lai skatītu pilnīgu izmaiņu sarakstu un sarakstu ar biežāk uzdotajiem jautājumiem, lūdzu apmeklējiet:</string>
+		<link href="http://www.openintents.org"/>
+		<emptyline/>
+		<string>Jūs varat palīdzēt uzlabot tulkojumu savā valodā izmantojot Lounchpad:</string>
+		<link href="https://translations.launchpad.net/openintents/trunk"/>
+		<emptyline/>
+		<string>Pirmkods ir bezmaksas un atvērtā pirmkoda aplikācija ir pieejama:</string>
+		<link href="http://code.google.com/p/openintents"/>
+		<emptyline/>
 		<string>Features:</string>
 		<listitem>Show list of files with thumbnails for images.</listitem>
 		<listitem>Move, copy, rename, and delete files.</listitem>
@@ -135,26 +136,26 @@
 		<listitem>Acts as an extension to other applications, like GMail, to attach files.</listitem>
 		<listitem>Support for many file endings and mime types.</listitem>
 		<listitem>Supports PICK_FILE and PICK_DIRECTORY intents so that other applications can use OI File Manager.</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Available extensions for "OI File Manager":</string>
 		<listitem>Show the license information with "OI About".</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Applications that work with "OI File Manager":</string>
 		<listitem>Open and save text files in "OI Notepad".</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Keywords:</string>
 		<!--  Keywords: List several related key words and variations in your language and in English that people might search for. -->
 		<listitem>file manager, filemanager, file explorer</listitem>
 		<!--  Keep these keywords untranslated, or list the English version and a translation of the company name into your language in variations that people might search for. -->
 		<listitem>OI, IO, OpenIntents, Open Intents</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>International versions:</string>
-		<international />
-		<emptyline />
+		<international/>
+		<emptyline/>
 		<string>Search strings for Market:</string>
 		<!--  (these are not translated into other languages) -->
-		<include file="description_extensions.txt" />
-		<emptyline />
+		<include file="description_extensions.txt"/>
+		<emptyline/>
 	</description>
 	<description application="flashlight/Flashlight">
 		<!--  OI Flashlight -->
@@ -168,40 +169,40 @@
 		<string>OI Flashlight locks the display backlight on, clearly illuminating the surrounding area.</string>
 		<string>For devices with a camera flash, OI Flashlight can also use the flash as a bright torch to brighten the room.</string>
 		<string>The color of the backlight is completely customizable with OI Color Picker.</string>
-		<emptyline />
-		<string>This application is ad free and does not require the internet permission.</string>
-		<emptyline />
-		<string>The source code of this free and open source application is available at:</string>
-		<link href="http://code.google.com/p/openintents" />
-		<emptyline />
-		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
-		<link href="http://www.openintents.org" />
-		<emptyline />
-		<string>You can help to improve the translation into your language at Launchpad:</string>
-		<link href="https://translations.launchpad.net/openintents/trunk" />
-		<emptyline />
+		<emptyline/>
+		<string>Šī aplikācija ir bezmaksas un tai nevajag interneta atļauju.</string>
+		<emptyline/>
+		<string>Pirmkods ir bezmaksas un atvērtā pirmkoda aplikācija ir pieejama:</string>
+		<link href="http://code.google.com/p/openintents"/>
+		<emptyline/>
+		<string>Lai skatītu pilnīgu izmaiņu sarakstu un sarakstu ar biežāk uzdotajiem jautājumiem, lūdzu apmeklējiet:</string>
+		<link href="http://www.openintents.org"/>
+		<emptyline/>
+		<string>Jūs varat palīdzēt uzlabot tulkojumu savā valodā izmantojot Lounchpad:</string>
+		<link href="https://translations.launchpad.net/openintents/trunk"/>
+		<emptyline/>
 		<string>Features:</string>
 		<listitem>Lock the display backlight on.</listitem>
 		<listitem>Lock camera flash on.</listitem>
 		<listitem>The color of backlight is customizable.</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Available extensions for "OI Flashlight":</string>
 		<listitem>Show the license information with "OI About".</listitem>
 		<listitem>Change the color of the backlight with "OI Color Picker".</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Applications that work with "OI Flashlight":</string>
 		<listitem>Update with "OI Update".</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Keywords:</string>
 		<listitem>Flashlight, light, Backlight</listitem>
 		<listitem>OI, OpenIntents, Open Intents</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>International versions:</string>
-		<international />
-		<emptyline />
+		<international/>
+		<emptyline/>
 		<string>Search strings for Market:</string>
 		<!--  (these are not translated into other languages) -->
-		<include file="description_extensions.txt" />
+		<include file="description_extensions.txt"/>
 	</description>
 	<description application="notepad/NotePad">
 		<!--  OI Notepad -->
@@ -215,18 +216,18 @@
 		<string>With it you can tag, search, and send your notes, in addition to basic functionality such as creating, deleting, and editing notes.</string>
 		<string>Advanced features like encryption, import/export, and voice memos are all available through extensions.</string>
 		<string>All of this functionality is brought together in a simplistic and efficient layout, customizable through a variety of themes.</string>
-		<emptyline />
-		<string>This application is ad free and does not require the internet permission.</string>
-		<emptyline />
-		<string>The source code of this free and open source application is available at:</string>
-		<link href="http://code.google.com/p/openintents" />
-		<emptyline />
-		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
-		<link href="http://www.openintents.org" />
-		<emptyline />
-		<string>You can help to improve the translation into your language at Launchpad:</string>
-		<link href="https://translations.launchpad.net/openintents/trunk" />
-		<emptyline />
+		<emptyline/>
+		<string>Šī aplikācija ir bezmaksas un tai nevajag interneta atļauju.</string>
+		<emptyline/>
+		<string>Pirmkods ir bezmaksas un atvērtā pirmkoda aplikācija ir pieejama:</string>
+		<link href="http://code.google.com/p/openintents"/>
+		<emptyline/>
+		<string>Lai skatītu pilnīgu izmaiņu sarakstu un sarakstu ar biežāk uzdotajiem jautājumiem, lūdzu apmeklējiet:</string>
+		<link href="http://www.openintents.org"/>
+		<emptyline/>
+		<string>Jūs varat palīdzēt uzlabot tulkojumu savā valodā izmantojot Lounchpad:</string>
+		<link href="https://translations.launchpad.net/openintents/trunk"/>
+		<emptyline/>
 		<string>Features:</string>
 		<listitem>Add, edit and delete notes.</listitem>
 		<listitem>Long-press on notes to add tags.</listitem>
@@ -234,31 +235,31 @@
 		<listitem>A clearly arranged layout with a variety of themes.</listitem>
 		<listitem>Quickly search through notes.</listitem>
 		<listitem>Send notes as MMS or SMS.</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Available extensions for "OI Notepad":</string>
 		<listitem>Record and attach voice memos to notes with "OI Voice Notes".</listitem>
 		<listitem>With "OI Convert CSV" import/export notes from the SD card.</listitem>
 		<listitem>Show the license information with "OI About".</listitem>
 		<listitem>Insert the date and time into notes with "OI Insert Date".</listitem>
 		<listitem>Turn text upside down with "Upside Down".</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Applications that work with "OI Notepad":</string>
 		<listitem>Back up notes with "My Backup Pro".</listitem>
 		<listitem>Encrypt notes using "OI Safe".</listitem>
 		<listitem>Manage notes on your SD Card with "OI File Manager".</listitem>
 		<listitem>Update with "OI Update".</listitem>
 		<listitem>Share notes through "Facebook", "Gmail", "Google+", "Twitter", and many other applications.</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Keywords:</string>
 		<listitem>Note, Notepad, Note book, Notes</listitem>
 		<listitem>OI, OpenIntents, Open Intents</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>International versions:</string>
-		<international />
-		<emptyline />
+		<international/>
+		<emptyline/>
 		<string>Search strings for Market:</string>
 		<!--  (these are not translated into other languages) -->
-		<include file="description_extensions.txt" />
+		<include file="description_extensions.txt"/>
 	</description>
 	<description application="safe/Safe">
 		<!--  OI Safe -->
@@ -270,18 +271,18 @@
 		<!--  Description of application -->
 		<string>OI Safe safely protects all of your passwords and other private data using industry standard AES encryption.</string>
 		<string>It also acts as an extension to OI Notepad to encrypt notes created in OI Notepad.</string>
-		<emptyline />
-		<string>This application is ad free and does not require the internet permission.</string>
-		<emptyline />
-		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
-		<link href="http://www.openintents.org" />
-		<emptyline />
-		<string>You can help to improve the translation into your language at Launchpad:</string>
-		<link href="https://translations.launchpad.net/openintents/trunk" />
-		<emptyline />
-		<string>The source code of this free and open source application is available at:</string>
-		<link href="http://code.google.com/p/openintents" />
-		<emptyline />
+		<emptyline/>
+		<string>Šī aplikācija ir bezmaksas un tai nevajag interneta atļauju.</string>
+		<emptyline/>
+		<string>Lai skatītu pilnīgu izmaiņu sarakstu un sarakstu ar biežāk uzdotajiem jautājumiem, lūdzu apmeklējiet:</string>
+		<link href="http://www.openintents.org"/>
+		<emptyline/>
+		<string>Jūs varat palīdzēt uzlabot tulkojumu savā valodā izmantojot Lounchpad:</string>
+		<link href="https://translations.launchpad.net/openintents/trunk"/>
+		<emptyline/>
+		<string>Pirmkods ir bezmaksas un atvērtā pirmkoda aplikācija ir pieejama:</string>
+		<link href="http://code.google.com/p/openintents"/>
+		<emptyline/>
 		<string>Features:</string>
 		<listitem>Securely protect data using AES encryption.</listitem>
 		<listitem>Freely move data entries between categories.</listitem>
@@ -292,25 +293,25 @@
 		<listitem>Encrypt OI Notepad notes.</listitem>
 		<listitem>Support for Obscura picture safe.</listitem>
 		<listitem>MyBackup Pro.</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Available extensions for "OI File Manager":</string>
 		<listitem>Show the license information with "OI About".</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Applications that work with "OI File Manager":</string>
 		<listitem>Encrypt notes created in "OI Notepad".</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Keywords:</string>
 		<!--  Keywords: List several related key words and variations in your language and in English that people might search for. -->
 		<listitem>safe, encrpytion, password, protection</listitem>
 		<!--  Keep these keywords untranslated, or list the English version and a translation of the company name into your language in variations that people might search for. -->
 		<listitem>OI, IO, OpenIntents, Open Intents</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>International versions:</string>
-		<international />
-		<emptyline />
+		<international/>
+		<emptyline/>
 		<string>Search strings for Market:</string>
 		<!--  (these are not translated into other languages) -->
-		<include file="description_extensions.txt" />
+		<include file="description_extensions.txt"/>
 	</description>
 	<description application="shoppinglist/ShoppingList">
 		<!--  OI Shopping List -->
@@ -325,18 +326,18 @@
 		<string>The application can track separate prices for each store that you use, and features a high level of customization.</string>
 		<string>Font size, sort order, list columns, and list cleanup behavior are all settings controlled by the user.</string>
 		<string>All of these features are brought together in a crisp layout that is customizable through a variety of themes.</string>
-		<emptyline />
-		<string>The source code of this free and open source application is available at:</string>
-		<link href="http://code.google.com/p/openintents" />
-		<emptyline />
-		<string>This application is ad free and does not require the internet permission.</string>
-		<emptyline />
-		<string>For the complete list of changes and a list of frequently asked questions, please visit:</string>
-		<link href="http://www.openintents.org" />
-		<emptyline />
-		<string>You can help to improve the translation into your language at Launchpad:</string>
-		<link href="https://translations.launchpad.net/openintents/trunk" />
-		<emptyline />
+		<emptyline/>
+		<string>Pirmkods ir bezmaksas un atvērtā pirmkoda aplikācija ir pieejama:</string>
+		<link href="http://code.google.com/p/openintents"/>
+		<emptyline/>
+		<string>Šī aplikācija ir bezmaksas un tai nevajag interneta atļauju.</string>
+		<emptyline/>
+		<string>Lai skatītu pilnīgu izmaiņu sarakstu un sarakstu ar biežāk uzdotajiem jautājumiem, lūdzu apmeklējiet:</string>
+		<link href="http://www.openintents.org"/>
+		<emptyline/>
+		<string>Jūs varat palīdzēt uzlabot tulkojumu savā valodā izmantojot Lounchpad:</string>
+		<link href="https://translations.launchpad.net/openintents/trunk"/>
+		<emptyline/>
 		<string>Features:</string>
 		<listitem>Add, edit and delete lists.</listitem>
 		<listitem>Create, delete, and check items quickly and easily.</listitem>
@@ -344,30 +345,30 @@
 		<listitem>Customizable font size and sort order.</listitem>
 		<listitem>Keep track of separate prices for each store.</listitem>
 		<listitem>Customizable list columns.</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Available extensions for "OI Shopping List":</string>
 		<listitem>Add a recorded message to a note with "OI Voice Notes".</listitem>
 		<listitem>Import/export shopping lists with "OI Convert CSV".</listitem>
 		<listitem>Show the license information with "OI About".</listitem>
 		<listitem>Enter/check items with "Barcode OI Plugin".</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Applications that work with "OI Shopping List":</string>
 		<listitem>Update with "OI Update".</listitem>
 		<listitem>Backup lists with "My Backup Pro".</listitem>
 		<listitem>Import ingredients of recipes with "Bites".</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>Keywords:</string>
 		<listitem>Shopping, List, Shopping List, Checklist</listitem>
 		<listitem>OI, OpenIntents, Open Intents</listitem>
-		<emptyline />
+		<emptyline/>
 		<string>International versions:</string>
-		<international />
-		<emptyline />
+		<international/>
+		<emptyline/>
 		<string>Extensions:</string>
 		<!--  (these are not translated into other languages) -->
-		<include file="description_extensions.txt" />
-		<emptyline />
-		<emptyline />
-		<emptyline />
+		<include file="description_extensions.txt"/>
+		<emptyline/>
+		<emptyline/>
+		<emptyline/>
 	</description>
 </main>
