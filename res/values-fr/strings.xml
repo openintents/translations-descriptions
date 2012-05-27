@@ -2,6 +2,8 @@
 <main>
 	<translators>Launchpad Contributions:
   OpenIntents devs https://launchpad.net/~openintents-devs
+  Stanislas Michalak https://launchpad.net/~stanislas-michalak
+  Tanguy Herrmann https://launchpad.net/~dolanor
   kartik https://launchpad.net/~b-ballkartik96</translators>
 	<description application="aboutapp/AboutApp">
 		<!--  OI About -->
@@ -65,9 +67,9 @@
 		<!--  -->
 		<!--  Description of application -->
 		<emptyline/>
-		<string>OI Countdown is a helpful timer to increase your productivity and plan your day. </string>
-		<string>It allows you to set a variety of different actions to notify you at the end of a timer. </string>
-		<string>Fully customize all your timers, with no limit on how many you can have running or saved. </string>
+		<string>OI Countdown est une application de compte à rebours permettant d\'accroître votre productivité et organiser votre journée.</string>
+		<string>Elle vous permet de paramétrer une variété d\'actions pour vous notifier à la fin d\'un compte à rebours.</string>
+		<string>Personnalisez complètement vos comptes à rebours, sans limite sur le nombre de compte à rebours lancés ou enregistrés.</string>
 		<emptyline/>
 		<string>Cette application est petite annonce gratuite et ne nécessite pas l\'autorisation d\'Internet.</string>
 		<emptyline/>
@@ -84,19 +86,19 @@
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
 		<string>caractéristiques:</string>
-		<listitem>Set a countdown by choosing a duration or a date.</listitem>
-		<listitem>Be notified by vibration or any sound of your choice. </listitem>
-		<listitem>Have an unlimited number of timers running at the same time. </listitem>
-		<listitem>Save your countdowns and give them names to reuse at later times. </listitem>
-		<listitem>Modify countdowns, even while they are still running</listitem>
+		<listitem>Paramétrez un compte à rebours en choisissant une durée ou une date.</listitem>
+		<listitem>Soyez notifié par une vibration ou n\'importe quel son de votre choix.</listitem>
+		<listitem>Ayez un nombre illimité de compte à rebours lancé au même moment.</listitem>
+		<listitem>Sauvegardez vos compte à rebours et donnez-leur des noms pour les réutiliser plus tard.</listitem>
+		<listitem>Modifiez des compte à rebours, même s\'ils sont encore en train de fonctionner</listitem>
 		<emptyline/>
-		<string>Available extensions for "OI Countdown": </string>
-		<listitem>Launch applications through Android shortcuts</listitem>
-		<listitem>Use OI About to show license information</listitem>
+		<string>Greffons disponible pour "OI Countdown":</string>
+		<listitem>Lancer des applications avec les raccourcis Android</listitem>
+		<listitem>Utilisez OI About pour montrer vos informations de licence</listitem>
 		<emptyline/>
 		<string>Mots-clés:</string>
 		<!--  Keywords: List several related key words and variations in your language and in English that people might search for. -->
-		<listitem>countdown, timer, alert</listitem>
+		<listitem>countdown, timer, alert, compte à rebours, alarme, alerte, minuteur</listitem>
 		<!--  Keep these keywords untranslated, or list the English version and a translation of the company name into your language in variations that people might search for. -->
 		<listitem>OI, OpenIntents, Open Intents</listitem>
 		<emptyline/>

@@ -2,6 +2,7 @@
 <main>
 	<translators>Launchpad Contributions:
   Debug Mode https://launchpad.net/~thedebugmode
+  Dennis Baudys https://launchpad.net/~thecondordb
   Hans https://launchpad.net/~hans-wuerstchen42
   OpenIntents devs https://launchpad.net/~openintents-devs
   Patrick Eigensatz https://launchpad.net/~p.eigensatz</translators>
@@ -30,8 +31,8 @@
 		<string>Sie können uns mit der Verbesserung der Übersetzung in ihre Sprache auf Launchpad unterstützen:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Eigentschaften:</string>
-		<listitem>Zeigt allgemeine Informationen, Danksagungen und Lizenztabs</listitem>
+		<string>Leistungsmerkmale:</string>
+		<listitem>Die Reiter Allgemeine Informationen, Danksagungen und Lizenz anzeigen.</listitem>
 		<listitem>Zeigt die Übersetzer aller Sprachversionen</listitem>
 		<listitem>Holt Informationen über eine Anwendungen über Standard Tags und Metadaten.</listitem>
 		<listitem>Optional können alle Felder über Intent Extras verändert werden.</listitem>
@@ -85,7 +86,7 @@
 		<string>Sie können uns mit der Verbesserung der Übersetzung in ihre Sprache auf Launchpad unterstützen:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Eigentschaften:</string>
+		<string>Leistungsmerkmale:</string>
 		<listitem>Sie können einen Countdown einrichten, indem Sie die Dauer oder ein Datum festlegen.</listitem>
 		<listitem>Sie können über das Ende eines Timers mit einen Sound ihrer Wahl oder mit Vibration informiert werden.</listitem>
 		<listitem>Zur gleichen Zeit können unbegrenzt viele Timer laufen.</listitem>
@@ -131,7 +132,7 @@
 		<string>Der Quellcode dieser kostenlosen und quelloffenen Applikation ist verfügbar auf:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>Eigentschaften:</string>
+		<string>Leistungsmerkmale:</string>
 		<listitem>Zeigt eine Liste der Dateien mit Vorschauen für Bilder.</listitem>
 		<listitem>Dateien verschieben, kopieren, umbennen oder löschen</listitem>
 		<listitem>Erstellt und löscht Ordner.</listitem>
@@ -184,7 +185,7 @@
 		<string>Sie können uns mit der Verbesserung der Übersetzung in ihre Sprache auf Launchpad unterstützen:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Eigentschaften:</string>
+		<string>Leistungsmerkmale:</string>
 		<listitem>Schaltet die Hintergrundbeleuchtung an.</listitem>
 		<listitem>Schaltet den Kamerablitz an.</listitem>
 		<listitem>Die Farbe der Hintergrundbeleuchtung ist veränderbar.</listitem>
@@ -231,7 +232,7 @@
 		<string>Sie können uns mit der Verbesserung der Übersetzung in ihre Sprache auf Launchpad unterstützen:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Eigentschaften:</string>
+		<string>Leistungsmerkmale:</string>
 		<listitem>Notizen hinzufügen, bearbeiten oder löschen.</listitem>
 		<listitem>Lange auf Notizen drücken um Tags hinzuzufügen.</listitem>
 		<listitem>Schriftgrösse und Sortierreihenfolge verändern.</listitem>
@@ -286,7 +287,7 @@
 		<string>Der Quellcode dieser kostenlosen und quelloffenen Applikation ist verfügbar auf:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>Eigentschaften:</string>
+		<string>Leistungsmerkmale:</string>
 		<listitem>Daten mit der AES Verschlüsselung schützen.</listitem>
 		<listitem>Dateneinträge zwischen Kategorien frei herumbewegen.</listitem>
 		<listitem>Dateneinträge und Datenbanken importieren oder exportieren.</listitem>
@@ -341,7 +342,7 @@
 		<string>Sie können uns mit der Verbesserung der Übersetzung in ihre Sprache auf Launchpad unterstützen:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Eigentschaften:</string>
+		<string>Leistungsmerkmale:</string>
 		<listitem>Listen hinzufügen, verändern und löschen.</listitem>
 		<listitem>Schnell und einfach Items erstellen, löschen, abhacken</listitem>
 		<listitem>Eine Vielzahl von Themen.</listitem>
