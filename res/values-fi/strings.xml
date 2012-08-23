@@ -2,7 +2,8 @@
 <main>
 	<translators>Launchpad Contributions:
   Madhu Sudan Saraogi https://launchpad.net/~madhusudansrg4
-  OpenIntents devs https://launchpad.net/~openintents-devs</translators>
+  OpenIntents devs https://launchpad.net/~openintents-devs
+  emp https://launchpad.net/~emp500</translators>
 	<description application="aboutapp/AboutApp">
 		<!--  OI About -->
 		<!--  -->
@@ -11,21 +12,21 @@
 		<!--  (Put each sentence in a separate line. Each sentence is translated separately) -->
 		<!--  -->
 		<!--  Description of application -->
-		<string>OI Tietoja on itsenäinen noin dialogi, joka on jaettu apps.</string>
-		<string>Tämä sovellus on vedonnut kautta valikossa muiden OI sovelluksia.</string>
-		<string>Sen avulla voit katsella versiotiedot, linkkejä, hyvityksiä ja lupa hakemuksen.</string>
-		<string>Krediittiä sisältävät kirjailijat, dokumentointi, kääntäjiä, ja taiteilijoita.</string>
-		<string>Kaikki tämä toiminnallisuus kootaan yksinkertainen ja tehokas layout.</string>
+		<string>OI Info on itsenäinen infodialogi, joka on jaettu ohjelmien kesken.</string>
+		<string>Tämä sovellus käynnistetään toisten OI ohjelmien valikoiden kautta.</string>
+		<string>Sen avulla voit katsoa versiotietoja,linkkejä,tekijöitä ja ohjelman lisenssejä.</string>
+		<string>Tekijät sisältävät kehittäjät, dokumentoijat, kääntäjät ja artistit.</string>
+		<string>Kaikki tämä toiminnallisuus on tuotu yhteen yksinkertaisella ja tehokkaalla toimintaperiaatteella.</string>
 		<emptyline/>
-		<string>Tämä sovellus on mainos ilmainen eikä vaadi internet lupaa.</string>
+		<string>Tässä ohjelmassa EI OLE mainoksia ja ei vaadi internetyhteyttä ja -lupaa.</string>
 		<emptyline/>
-		<string>Lähdekoodi tämän ilmaisen ja avoimen lähdekoodin sovellus on saatavilla osoitteessa:</string>
+		<string>Tämän ilmaisen ja avoimen lähdekoodin ohjelman lähdekoodi on saatavilla osoitteesta:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>Täydellinen luettelo muutoksista ja luettelo usein kysyttyihin kysymyksiin osoitteessa:</string>
+		<string>Täydellinen luettelo muutoksista ja lista usein kysytyistä kysymyksistä on saatavilla osoitteessa:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
-		<string>Voit auttaa parantamaan käännös omalla kielelläsi Launchpad:</string>
+		<string>Voit auttaa parantamaan käännöksiä omalle kielellesi Launchpadissa:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
 		<string>Ominaisuudet:</string>
@@ -69,18 +70,18 @@
 		<string>It allows you to set a variety of different actions to notify you at the end of a timer. </string>
 		<string>Fully customize all your timers, with no limit on how many you can have running or saved. </string>
 		<emptyline/>
-		<string>Tämä sovellus on mainos ilmainen eikä vaadi internet lupaa.</string>
+		<string>Tässä ohjelmassa EI OLE mainoksia ja ei vaadi internetyhteyttä ja -lupaa.</string>
 		<emptyline/>
 		<emptyline/>
 		<emptyline/>
-		<string>Lähdekoodi tämän ilmaisen ja avoimen lähdekoodin sovellus on saatavilla osoitteessa:</string>
+		<string>Tämän ilmaisen ja avoimen lähdekoodin ohjelman lähdekoodi on saatavilla osoitteesta:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>Täydellinen luettelo muutoksista ja luettelo usein kysyttyihin kysymyksiin osoitteessa:</string>
+		<string>Täydellinen luettelo muutoksista ja lista usein kysytyistä kysymyksistä on saatavilla osoitteessa:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
 		<emptyline/>
-		<string>Voit auttaa parantamaan käännös omalla kielelläsi Launchpad:</string>
+		<string>Voit auttaa parantamaan käännöksiä omalle kielellesi Launchpadissa:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
 		<string>Ominaisuudet:</string>
@@ -118,15 +119,15 @@
 		<string>OI File Managerin avulla voit selata SD-kortti, luoda hakemistoja, nimetä uudelleen, kopioida, siirtää ja poistaa tiedostoja.</string>
 		<string>Se toimii myös laajentamista muihin sovelluksiin näyttämään "Avaa" ja "Save" valintaikkunoissa.</string>
 		<emptyline/>
-		<string>Tämä sovellus on mainos ilmainen eikä vaadi internet lupaa.</string>
+		<string>Tässä ohjelmassa EI OLE mainoksia ja ei vaadi internetyhteyttä ja -lupaa.</string>
 		<emptyline/>
-		<string>Täydellinen luettelo muutoksista ja luettelo usein kysyttyihin kysymyksiin osoitteessa:</string>
+		<string>Täydellinen luettelo muutoksista ja lista usein kysytyistä kysymyksistä on saatavilla osoitteessa:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
-		<string>Voit auttaa parantamaan käännös omalla kielelläsi Launchpad:</string>
+		<string>Voit auttaa parantamaan käännöksiä omalle kielellesi Launchpadissa:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Lähdekoodi tämän ilmaisen ja avoimen lähdekoodin sovellus on saatavilla osoitteessa:</string>
+		<string>Tämän ilmaisen ja avoimen lähdekoodin ohjelman lähdekoodi on saatavilla osoitteesta:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
 		<string>Ominaisuudet:</string>
@@ -171,15 +172,15 @@
 		<string>For devices with a camera flash, OI Flashlight can also use the flash as a bright torch to brighten the room.</string>
 		<string>The color of the backlight is completely customizable with OI Color Picker.</string>
 		<emptyline/>
-		<string>Tämä sovellus on mainos ilmainen eikä vaadi internet lupaa.</string>
+		<string>Tässä ohjelmassa EI OLE mainoksia ja ei vaadi internetyhteyttä ja -lupaa.</string>
 		<emptyline/>
-		<string>Lähdekoodi tämän ilmaisen ja avoimen lähdekoodin sovellus on saatavilla osoitteessa:</string>
+		<string>Tämän ilmaisen ja avoimen lähdekoodin ohjelman lähdekoodi on saatavilla osoitteesta:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>Täydellinen luettelo muutoksista ja luettelo usein kysyttyihin kysymyksiin osoitteessa:</string>
+		<string>Täydellinen luettelo muutoksista ja lista usein kysytyistä kysymyksistä on saatavilla osoitteessa:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
-		<string>Voit auttaa parantamaan käännös omalla kielelläsi Launchpad:</string>
+		<string>Voit auttaa parantamaan käännöksiä omalle kielellesi Launchpadissa:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
 		<string>Ominaisuudet:</string>
@@ -218,15 +219,15 @@
 		<string>Advanced features like encryption, import/export, and voice memos are all available through extensions.</string>
 		<string>All of this functionality is brought together in a simplistic and efficient layout, customizable through a variety of themes.</string>
 		<emptyline/>
-		<string>Tämä sovellus on mainos ilmainen eikä vaadi internet lupaa.</string>
+		<string>Tässä ohjelmassa EI OLE mainoksia ja ei vaadi internetyhteyttä ja -lupaa.</string>
 		<emptyline/>
-		<string>Lähdekoodi tämän ilmaisen ja avoimen lähdekoodin sovellus on saatavilla osoitteessa:</string>
+		<string>Tämän ilmaisen ja avoimen lähdekoodin ohjelman lähdekoodi on saatavilla osoitteesta:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>Täydellinen luettelo muutoksista ja luettelo usein kysyttyihin kysymyksiin osoitteessa:</string>
+		<string>Täydellinen luettelo muutoksista ja lista usein kysytyistä kysymyksistä on saatavilla osoitteessa:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
-		<string>Voit auttaa parantamaan käännös omalla kielelläsi Launchpad:</string>
+		<string>Voit auttaa parantamaan käännöksiä omalle kielellesi Launchpadissa:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
 		<string>Ominaisuudet:</string>
@@ -273,15 +274,15 @@
 		<string>OI Safe safely protects all of your passwords and other private data using industry standard AES encryption.</string>
 		<string>It also acts as an extension to OI Notepad to encrypt notes created in OI Notepad.</string>
 		<emptyline/>
-		<string>Tämä sovellus on mainos ilmainen eikä vaadi internet lupaa.</string>
+		<string>Tässä ohjelmassa EI OLE mainoksia ja ei vaadi internetyhteyttä ja -lupaa.</string>
 		<emptyline/>
-		<string>Täydellinen luettelo muutoksista ja luettelo usein kysyttyihin kysymyksiin osoitteessa:</string>
+		<string>Täydellinen luettelo muutoksista ja lista usein kysytyistä kysymyksistä on saatavilla osoitteessa:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
-		<string>Voit auttaa parantamaan käännös omalla kielelläsi Launchpad:</string>
+		<string>Voit auttaa parantamaan käännöksiä omalle kielellesi Launchpadissa:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
-		<string>Lähdekoodi tämän ilmaisen ja avoimen lähdekoodin sovellus on saatavilla osoitteessa:</string>
+		<string>Tämän ilmaisen ja avoimen lähdekoodin ohjelman lähdekoodi on saatavilla osoitteesta:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
 		<string>Ominaisuudet:</string>
@@ -328,15 +329,15 @@
 		<string>Font size, sort order, list columns, and list cleanup behavior are all settings controlled by the user.</string>
 		<string>All of these features are brought together in a crisp layout that is customizable through a variety of themes.</string>
 		<emptyline/>
-		<string>Lähdekoodi tämän ilmaisen ja avoimen lähdekoodin sovellus on saatavilla osoitteessa:</string>
+		<string>Tämän ilmaisen ja avoimen lähdekoodin ohjelman lähdekoodi on saatavilla osoitteesta:</string>
 		<link href="http://code.google.com/p/openintents"/>
 		<emptyline/>
-		<string>Tämä sovellus on mainos ilmainen eikä vaadi internet lupaa.</string>
+		<string>Tässä ohjelmassa EI OLE mainoksia ja ei vaadi internetyhteyttä ja -lupaa.</string>
 		<emptyline/>
-		<string>Täydellinen luettelo muutoksista ja luettelo usein kysyttyihin kysymyksiin osoitteessa:</string>
+		<string>Täydellinen luettelo muutoksista ja lista usein kysytyistä kysymyksistä on saatavilla osoitteessa:</string>
 		<link href="http://www.openintents.org"/>
 		<emptyline/>
-		<string>Voit auttaa parantamaan käännös omalla kielelläsi Launchpad:</string>
+		<string>Voit auttaa parantamaan käännöksiä omalle kielellesi Launchpadissa:</string>
 		<link href="https://translations.launchpad.net/openintents/trunk"/>
 		<emptyline/>
 		<string>Ominaisuudet:</string>
